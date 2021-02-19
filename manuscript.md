@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://desanker.github.io/saotome1/" />
   <meta name="citation_pdf_url" content="https://desanker.github.io/saotome1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/saotome1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/saotome1/v/5947d1033dcc233c39179326a9a3e696278c9a66/" />
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/saotome1/v/5947d1033dcc233c39179326a9a3e696278c9a66/" />
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/saotome1/v/5947d1033dcc233c39179326a9a3e696278c9a66/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/saotome1/v/2cfa468a7e91d42675ae82d9da604f7f05bf14ee/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/saotome1/v/2cfa468a7e91d42675ae82d9da604f7f05bf14ee/" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/saotome1/v/2cfa468a7e91d42675ae82d9da604f7f05bf14ee/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/saotome1/v/5947d1033dcc233c39179326a9a3e696278c9a66/))
+([permalink](https://desanker.github.io/saotome1/v/2cfa468a7e91d42675ae82d9da604f7f05bf14ee/))
 was automatically generated
-from [desanker/saotome1@5947d10](https://github.com/desanker/saotome1/tree/5947d1033dcc233c39179326a9a3e696278c9a66)
+from [desanker/saotome1@2cfa468](https://github.com/desanker/saotome1/tree/2cfa468a7e91d42675ae82d9da604f7f05bf14ee)
 on February 19, 2021.
 </em></small>
 
