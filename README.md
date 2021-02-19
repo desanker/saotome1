@@ -1,4 +1,4 @@
-# Automated scholarly manuscripts on GitHub
+# Automated Open NAP manuscripts on GitHub: Sao Tome and Principle Version 1
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
@@ -12,8 +12,8 @@
 
 <!-- usage note: edit this section. -->
 
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
+The Open NAP format is based on a common template for a NAP  (a.k.a. generic-open-nap).
+Specific Open NAP manuscripts for a country instance will clone the Manubot rootstock repository (see [`SETUP.md`](SETUP.md)).
 
 ## Manubot
 
