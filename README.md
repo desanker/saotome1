@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/desanker/saotome1/tree/gh-pages) branch hosts the contents of this directory at <https://desanker.github.io/saotome1/>.
-The permalink for this webpage version is <https://desanker.github.io/saotome1/v/7101d58e126de27ddaf082237b3568c09e37e820/>.
+The permalink for this webpage version is <https://desanker.github.io/saotome1/v/c6b7c66b37faeedb68245c16e7e59e8a74b58bc1/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://desanker.github.io/saotome1/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`7101d58e126de27ddaf082237b3568c09e37e820`](https://github.com/desanker/saotome1/commit/7101d58e126de27ddaf082237b3568c09e37e820).
+[`c6b7c66b37faeedb68245c16e7e59e8a74b58bc1`](https://github.com/desanker/saotome1/commit/c6b7c66b37faeedb68245c16e7e59e8a74b58bc1).
