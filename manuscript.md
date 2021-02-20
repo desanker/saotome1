@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2021-02-19'
+date-meta: '2021-02-20'
 author-meta:
 - John Doe
 - Jane Roe
@@ -19,8 +19,8 @@ header-includes: |-
   <meta name="citation_title" content="Manuscript Title" />
   <meta property="og:title" content="Manuscript Title" />
   <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2021-02-19" />
-  <meta name="citation_publication_date" content="2021-02-19" />
+  <meta name="dc.date" content="2021-02-20" />
+  <meta name="citation_publication_date" content="2021-02-20" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://desanker.github.io/saotome1/" />
   <meta name="citation_pdf_url" content="https://desanker.github.io/saotome1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/saotome1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/saotome1/v/1a52c3c25f3bda60182e389ba474efd96b6d70c1/" />
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/saotome1/v/1a52c3c25f3bda60182e389ba474efd96b6d70c1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/saotome1/v/1a52c3c25f3bda60182e389ba474efd96b6d70c1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/saotome1/v/a654c17cb1a2333075a26f71fa1f793d3c65b7f3/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/saotome1/v/a654c17cb1a2333075a26f71fa1f793d3c65b7f3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/saotome1/v/a654c17cb1a2333075a26f71fa1f793d3c65b7f3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,10 +65,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/saotome1/v/1a52c3c25f3bda60182e389ba474efd96b6d70c1/))
+([permalink](https://desanker.github.io/saotome1/v/a654c17cb1a2333075a26f71fa1f793d3c65b7f3/))
 was automatically generated
-from [desanker/saotome1@1a52c3c](https://github.com/desanker/saotome1/tree/1a52c3c25f3bda60182e389ba474efd96b6d70c1)
-on February 19, 2021.
+from [desanker/saotome1@a654c17](https://github.com/desanker/saotome1/tree/a654c17cb1a2333075a26f71fa1f793d3c65b7f3)
+on February 20, 2021.
 </em></small>
 
 ## Authors
@@ -100,9 +100,7 @@ on February 19, 2021.
 
 ## Abstract {.page_break_before}
 
-The Open NAP master is a general NAP developed based on best available IPCC science and other high quality science products covering sectors and systems typically encountered in development countries when developing National Adaptation Plans. One thing that is obvious from the extensive IPCC 5AR is the immense knowledge of how climate change impacts different systems and sectors, and how similar those impacts are between countries. It is unlikely we will discover new impacts or improve our basic understanding of climate change in order to develop improved adaptation plans. It is also clear that doing more and more generic impact or vulnerability assessments will have limited value - we can now take is as known and accepted that things like droughts, floods etc will have negative impacts, and will get worse as climate continues to change, and that any given system will be impacted by multiple hazards, climate-related and others.
-
-The next frontier seems to be how to use the knowledge we have to design effective adaptation responses. In this exercise, we build on the collective knowledge that exiists now, to design a general NAP that can be applied as an antry point for any country. 
+Summary of the NAP - to be added
 
 
 

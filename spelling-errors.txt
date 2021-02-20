@@ -2,7 +2,6 @@ agro
 agroforestry
 Água
 ALDFG
-antry
 Arabica
 artisanal
 Benguela
@@ -20,7 +19,6 @@ edaphoclimatic
 EEZ
 enrolment
 ENRP
-exiists
 FAOSTAT
 fishermen’s
 Floodproofing
@@ -38,7 +36,6 @@ Hyogo
 ICTs
 INDC
 interannual
-IPCC
 ITCZ
 janeroe
 johndoe
@@ -102,7 +99,7 @@ upwelling
 USD
 wellbeing
 Xufe
-XXXX
+xxxx
 XXXXXXXX
 Zóchi
 zootechnical

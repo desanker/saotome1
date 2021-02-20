@@ -1,7 +1,3 @@
-content/01.abstract.md:3:IPCC
-content/01.abstract.md:3:IPCC
-content/01.abstract.md:5:antry
-content/01.abstract.md:5:exiists
 content/02.chapter1-Executive-Summary.md:3:São
 content/02.chapter1-Executive-Summary.md:3:Tomé
 content/03.chapter2-Framework-for-the-NAP.md:4:CCA
